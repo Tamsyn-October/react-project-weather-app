@@ -1,4 +1,4 @@
-## Check out my React WeatherApp 👇
+## Check out my React Weather App 👇
 https://tamsyn-react-weather-project.netlify.app/ 
 
 ## Getting Started with Create React App
